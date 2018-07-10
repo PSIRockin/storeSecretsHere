@@ -1,0 +1,1 @@
+console.log('There are 8 secrets in total' + "/n", '(This doesn’t count as one)');
